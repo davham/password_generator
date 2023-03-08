@@ -1,0 +1,34 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #111827;
+    color: #D1D5DB;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.2rem;
+}
+.accent {
+    color: #34D399
+}
+button {
+    background: #34D399;
+    color: #111827;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-weight: 800;
+    font-size: 1rem;
+}
+.password {
+    display: flex;
+    justify-content: space-evenly;
+    
+        
+}
+
+.container{
+    width: 90%;
+   max-width: 600px;
+    margin: 0 auto;
+    
+}
+
+
