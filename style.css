@@ -20,6 +20,7 @@ button {
 .password {
     display: flex;
     justify-content: space-evenly;
+    gap: 25px;
     
         
 }
